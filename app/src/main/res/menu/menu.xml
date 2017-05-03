@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/import_db"
+        android:orderInCategory="1"
+        android:title="@string/importar"
+        android:showAsAction="never"/>
+    <item android:id="@+id/export_db"
+        android:orderInCategory="2"
+        android:title="@string/exportar"
+        android:showAsAction="never"/>
+    <item android:id="@+id/list"
+        android:orderInCategory="3"
+        android:title="@string/listar"
+        android:showAsAction="never"/>
+</menu>
